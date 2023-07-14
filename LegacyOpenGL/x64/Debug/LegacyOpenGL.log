@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\zacha\OneDrive\Desktop\LegacyOpenGL\main.cpp(54,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\zacha\OneDrive\Desktop\LegacyOpenGL\main.cpp(55,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\zacha\OneDrive\Desktop\LegacyOpenGL\main.cpp(63): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\zacha\OneDrive\Desktop\LegacyOpenGL\main.cpp(115,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zacha\OneDrive\Desktop\LegacyOpenGL\main.cpp(115,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zacha\OneDrive\Desktop\LegacyOpenGL\main.cpp(116,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zacha\OneDrive\Desktop\LegacyOpenGL\main.cpp(116,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zacha\OneDrive\Desktop\LegacyOpenGL\main.cpp(117,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zacha\OneDrive\Desktop\LegacyOpenGL\main.cpp(117,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zacha\OneDrive\Desktop\LegacyOpenGL\main.cpp(118,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zacha\OneDrive\Desktop\LegacyOpenGL\main.cpp(118,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\zacha\OneDrive\Desktop\LegacyOpenGL\main.cpp(148,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\zacha\OneDrive\Desktop\LegacyOpenGL\main.cpp(169,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\zacha\OneDrive\Desktop\LegacyOpenGL\main.cpp(170,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\zacha\OneDrive\Desktop\LegacyOpenGL\main.cpp(183,28): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\zacha\OneDrive\Desktop\LegacyOpenGL\main.cpp(184,39): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\zacha\OneDrive\Desktop\LegacyOpenGL\main.cpp(188,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\zacha\OneDrive\Desktop\LegacyOpenGL\main.cpp(189,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\zacha\OneDrive\Desktop\LegacyOpenGL\main.cpp(190,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\zacha\OneDrive\Desktop\LegacyOpenGL\main.cpp(219,40): warning C4305: '=': truncation from 'double' to 'float'
+  LegacyOpenGL.vcxproj -> C:\Users\zacha\OneDrive\Desktop\LegacyOpenGL\x64\Debug\LegacyOpenGL.exe
